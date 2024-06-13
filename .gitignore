@@ -1,0 +1,8 @@
+output*
+*.pth
+**.pyc
+**/__pycache__/**
+__pycache__
+label-studio-ml-backend
+inference.ipynb
+mydata
