@@ -2,11 +2,16 @@
 - We release the [SegGPT model](https://huggingface.co/BAAI/SegGPT/blob/main/seggpt_vit_large.pth) and inference code for segmentation everything, as well as some example images and videos.
 ### Installation
 ```
-git clone https://github.com/baaivision/Painter
-cd Painter/SegGPT/SegGPT_inference && wget https://huggingface.co/BAAI/SegGPT/resolve/main/seggpt_vit_large.pth
+git clone https://github.com/burusuma/PBL.git
+wget https://huggingface.co/BAAI/SegGPT/resolve/main/seggpt_vit_large.pth
 pip install -r requirements.txt
 ```
-### Usage
+### Demo
+See inference_PBL.ipynb.
+
+
+
+### Quick use
 Everything in an image with a prompt.
 ```
 python seggpt_inference.py \
