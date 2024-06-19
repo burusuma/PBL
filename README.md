@@ -25,7 +25,8 @@
 ### Run the demo
 See this notebook. <br>
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1UmU6PzQbbFWr-BkfCIb7h0z9Kjc1e_Ul#scrollTo=Qel8tPKOS_I-)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1UmU6PzQbbFWr-BkfCIb7h0z9Kjc1e_Ul)
+
 
 ### Rocal Installation
 ```
