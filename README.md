@@ -6,7 +6,7 @@
 <sup>1</sup>[BAAI](https://www.baai.ac.cn/english.html), &nbsp; <sup>2</sup>[ZJU](https://www.zju.edu.cn/english/), &nbsp; <sup>3</sup>[PKU](https://english.pku.edu.cn/)
 <br>
   
-<image src="../seggpt_teaser.png" width="720px" />
+<image src="seggpt_teaser.png" width="720px" />
 <br>
 
 </div>
