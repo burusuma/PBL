@@ -105,7 +105,7 @@ def inference_image(model, device, img_path, img2_paths, tgt2_paths, out_path, m
     if mask_out_path:
         mask = Image.fromarray((output).astype(np.uint8))
         mask.save(mask_out_path)
-    output = Image.fromarray((input_image * (0.8 * output / 255 + 0.4)).astype(np.uint8))
+    output = Image.fromarray((input_image * (0.6 * output / 255 + 0.4)).astype(np.uint8))
     output.save(out_path)
     
 
